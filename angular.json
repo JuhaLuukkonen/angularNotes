@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angularNotes": {
+    "app_name": {
       "projectType": "application",
       "schematics": {},
       "root": "",
